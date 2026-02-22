@@ -2,4 +2,4 @@ Hoy tenemos estudiantes nuevos en la clase
 
 Estamos viendo Ramas en Git
 
-Son las 7pm
+Son las 7:15pm
